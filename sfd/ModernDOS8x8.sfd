@@ -4,7 +4,7 @@ FullName: Modern DOS 8x8
 FamilyName: Modern DOS 8x8
 Weight: Regular
 Copyright: Released by Jayvee Enaguas (HarvettFox96) <harvettfox96[nospam]tuta.io>, licensed under SIL OFL 1.1 <http://scripts.sil.org/OFL>. (C) 2009-2017.
-Version: 2017.03.25
+Version: 2017.05.01
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 100
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1384539481
-ModificationTime: 1490440545
+ModificationTime: 1493646474
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -44,7 +44,7 @@ OS2Vendor: 'HF96'
 OS2CodePages: 40000001.80000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "ModernDOS8x8:FontForge:2017.03.25" "" "2017.03.25" "" "" "" "Jayvee Enaguas (HarvettFox96)" "" "" "mailto:harvettfox96[nospam]tuta.io" "SIL Open Font License 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "ModernDOS8x8:FontForge:2017.05.01" "" "2017.05.01" "" "" "" "Jayvee Enaguas (HarvettFox96)" "" "" "mailto:harvettfox96[nospam]tuta.io" "SIL Open Font License 1.1" "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -9089,7 +9089,17 @@ Encoding: 65536 -1 255
 Width: 800
 VWidth: 0
 Flags: W
+HStem: 100 400<200 600>
+VStem: 200 400<100 500>
 LayerCount: 2
+Fore
+SplineSet
+200 500 m 1
+ 600 500 l 1
+ 600 100 l 1
+ 200 100 l 1
+ 200 500 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
