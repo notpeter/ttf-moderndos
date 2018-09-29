@@ -3,8 +3,8 @@ FontName: ModernDOS8x8
 FullName: Modern DOS 8x8
 FamilyName: Modern DOS 8x8
 Weight: Regular
-Copyright: Released by Jayvee Enaguas (HarvettFox96) <harvettfox96[nospam]tuta.io>, licensed under SIL OFL 1.1 <http://scripts.sil.org/OFL>. (C) 2009-2017.
-Version: 2017.05.01
+Copyright: Released by Jayvee Enaguas (HarvettFox96) <harvettfox96 [at] protonmail [dot] com>, licensed under a Creative Commons Zero (CC0) 1.0 <https://creativecommons.org/licenses/zero/1.0/>. © 2009-2018.
+Version: 2018.09.29-1
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 100
@@ -44,7 +44,7 @@ OS2Vendor: 'HF96'
 OS2CodePages: 40000001.80000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "ModernDOS8x8:FontForge:2017.05.01" "" "2017.05.01" "" "" "" "Jayvee Enaguas (HarvettFox96)" "" "" "mailto:harvettfox96[nospam]tuta.io" "SIL Open Font License 1.1" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "ModernDOS8x8:FontForge:2018.09.29-1" "" "2018.09.29-1" "" "" "" "Jayvee Enaguas (HarvettFox96)" "" "" "mailto:harvettfox96 [at] protonmail [dot] com" "Creative Commons Zero (CC0) 1.0" "https://creativecommons.org/licenses/zero/1.0/"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
