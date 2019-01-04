@@ -4,7 +4,7 @@ FullName: Modern DOS 8x8
 FamilyName: Modern DOS 8x8
 Weight: Regular
 Copyright: © 2009-2019 Jayvee Enaguas (HarvettFox96) <harvettfox96@protonmail.com>. Released under a libre/free public domain licence as Creative Commons Zero (CC0) 1.0. Applies worldwide countries including the Philippines, Spain, etc.
-Version: 20190101.01
+Version: 20190101.02
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 100
@@ -22,13 +22,14 @@ CreationTime: 1384539481
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 144
+LineGap: 0
 VLineGap: 0
+Panose: 2 1 5 9 1 1 1 1 1 1
 OS2TypoAscent: 700
 OS2TypoAOffset: 0
 OS2TypoDescent: -100
 OS2TypoDOffset: 0
-OS2TypoLinegap: 144
+OS2TypoLinegap: 0
 OS2WinAscent: 700
 OS2WinAOffset: 0
 OS2WinDescent: 100
@@ -37,13 +38,22 @@ HheadAscent: 700
 HheadAOffset: 0
 HheadDescent: -100
 HheadDOffset: 0
+OS2SubXSize: 400
+OS2SubYSize: 400
+OS2SubXOff: 0
+OS2SubYOff: 300
+OS2SupXSize: 400
+OS2SupYSize: 400
+OS2SupXOff: 0
+OS2SupYOff: -100
+OS2StrikeYSize: 100
+OS2StrikeYPos: 350
 OS2CapHeight: 700
 OS2XHeight: 500
 OS2Vendor: 'HF96'
-OS2CodePages: 40000001.80000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "ModernDOS8x8:FontForge:20190101.01" "" "20190101.01" "" "" "" "Jayvee Enaguas (HarvettFox96)" "" "" "mailto:harvettfox96@protonmail.com" "Public Domain, Creative Commons Zero (CC0) 1.0" "https://creativecommons.org/licenses/zero/1.0/"
+LangName: 1033 "" "" "" "ModernDOS8x8:FontForge:20190101.02" "" "20190101.02" "" "" "" "Jayvee Enaguas (HarvettFox96)" "" "" "mailto:harvettfox96@protonmail.com" "Public Domain, Creative Commons Zero (CC0) 1.0" "https://creativecommons.org/licenses/zero/1.0/"
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -52,7 +62,7 @@ FitToEm: 0
 WinInfo: 0 16 8
 BeginPrivate: 0
 EndPrivate
-TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+TeXData: 1 0 0 524288 262144 174762 327680 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 361 361
 
 StartChar: space
